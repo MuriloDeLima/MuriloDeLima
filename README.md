@@ -3,8 +3,7 @@
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloDeLima&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <br>
+  <img align="center" alt="Javascript" height="35" width="40" paddin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="jQuery" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
