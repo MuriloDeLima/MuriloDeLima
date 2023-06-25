@@ -1,4 +1,4 @@
-<h1 align="left"> Welcome warrior! 🔱</h1> <img src="garou.gif" width="40px">
+<h1 align="left"> Welcome warrior! 🔱 <p><img src="garou.gif" width="40px"></p></h1>
 
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloDeLima&show_icons=true&theme=shadow_red)
 
