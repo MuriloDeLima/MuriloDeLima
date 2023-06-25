@@ -1,6 +1,6 @@
 ## Welcome warrior 🔱
 
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloDeLima&show_icons=true&theme=transparent)
+![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloDeLima&show_icons=true&theme=shadow_red)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
